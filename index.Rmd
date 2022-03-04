@@ -19,7 +19,7 @@ output:
         </div>
 params:
   event: Rendez-vous de l'innovation 9
-  slug: edp
+  slug: eaudeparis
   description: Les données du robinet meilleures que les données en bouteille !
   title: Les données du robinet meilleures que les données en bouteille !
   image: ./img/Eau_de_Paris.png
@@ -96,7 +96,7 @@ Les données peuvent être des :
 ---
 ## La mise en données du monde
 
-- Concrètement, aujourd'hui, quels aspects de nos vie sont mis en données ?
+- Concrètement, aujourd'hui, quels aspects de nos vies sont mis en données ?
 
 --
 
