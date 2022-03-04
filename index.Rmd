@@ -300,7 +300,7 @@ class: inverse, center, middle
 
 # Des opportunités pour Eau de Paris ?
 
-### Eau de Paris peut aussi contribuer à ces .red[édifices communs]
+### Eau de Paris peut aussi contribuer à ces .red[biens communs]
 
 ---
 ## Rendre les usages de l'eau plus lisibles ?
