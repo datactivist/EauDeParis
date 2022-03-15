@@ -1,7 +1,7 @@
 ---
 title: "Les données du robinet meilleures que les données en bouteille !"
 subtitle: "Les opportunités de l'ouverture des données"
-author: "Joël Gombin, François Lacombe, Datactivist"
+author: "Joël Gombin, François Lacombe Datactivist"
 date: "16 mars 2022"
 output:
   SlidesDatactivist::moon_reader:
@@ -273,6 +273,7 @@ class: inverse, center, middle
 class: inverse, center, middle
 
 # 7. La cartographie collaborative
+### Une mise en commun de la .red[complexité du monde]
 
 ---
 ## Google Maps
@@ -284,16 +285,32 @@ class: inverse, center, middle
 
 ![](./img/osm.png)
 
+* Approche collaborative
+* Une grande diversité d'objets, grâce à un modèle attributaire étendu.
+* Une base de données topologique, avec des données géographiques
+
+---
+## OpenInfraMap
+
+Une vue de l'infrastructure cachée, qui reste parfois à compléter.
+
+![](./img/oim.png)
+
 ---
 ## OpenStreetMap
 
-![](./img/osm_edit.png)
----
-## OpenStreetMap
-
-Et même 7 116 bornes à incendie
+Et même 7 116 bornes à incendie, à début mars 2022.
 
 <img src="./img/hydrants.png" style="width:700px;"/>
+
+---
+## OpenStreetMap
+
+Qui dit collaboration dit aussi capacités d'édition.
+Le croisement avec d'autres sources de données permet de consolider la connaissance commune.
+
+![](./img/osm_edit.png)
+Ici autour du pavillon d'Arcueil, opportunément lors de travaux.
 
 ---
 class: inverse, center, middle
@@ -305,7 +322,7 @@ class: inverse, center, middle
 ---
 ## Rendre les usages de l'eau plus lisibles ?
 
-S'inspirer des données d'énergies pour proposer .red[une vision similaire] pour l'eau
+S'inspirer des données d'énergies pour proposer .red[une vision similaire] pour l'eau :
 
 ![](./img/data_ore_energie.png)
 
@@ -314,6 +331,10 @@ S'inspirer des données d'énergies pour proposer .red[une vision similaire] pou
 
 Le double réseau parisien offre l'opportunité d'expérimenter sans enjeu de sensibilité
 
+<div style="float:right; width:30%">
+* Données statiques du réseau, patrimoine
+* Données dynamiques de production, distribution
+</div>
 <img src="./img/data_edp_enp.png" style="width:500px;"/>
 
 ---
@@ -326,5 +347,3 @@ class: inverse, center, middle
 Contacts : 
 [joel@datactivist.coop](mailto:joel@datactivist.coop)
 [francois@datactivist.coop](mailto:francois@datactivist.coop)
-
-
